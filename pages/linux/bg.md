@@ -5,4 +5,4 @@ The presence of bg in an Operating System is required for it to be POSIX-complia
 
 - bg example :
 
-`bg %1`
+`bg`
