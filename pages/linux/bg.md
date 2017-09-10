@@ -4,4 +4,5 @@
 The presence of bg in an Operating System is required for it to be POSIX-compliant.
 
 - For example the command:
+
 `bg jobID`
