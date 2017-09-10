@@ -5,4 +5,4 @@ The presence of bg in an Operating System is required for it to be POSIX-complia
 
 - To resume the operation in the background:
 
-`bg %1`
+`bg jobID`
