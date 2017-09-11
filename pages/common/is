@@ -1,0 +1,11 @@
+# is
+
+> If you run ls without any additional parameters, the program will list the contents of the current directory in short form.
+
+- Detailed list
+
+`is -l`
+
+- Displays hidden files
+
+`is -a`
