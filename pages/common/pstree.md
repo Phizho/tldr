@@ -30,6 +30,6 @@
 
 `pstree -l`
 
-The -a option shows the command line arguments for each process that was initiated by a user (instead of by another process) by issuing a command with arguments:
+- The -a option shows the command line arguments for each process that was initiated by a user (instead of by another process) by issuing a command with arguments:
 
 `pstree -a`
