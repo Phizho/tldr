@@ -19,7 +19,7 @@
 `pstree -np`
 
 - The -h option highlights (or shows in bold) the current process and all of its ancestors, if highlighting is permitted by the particular system:
- 
+
 `pstree -h`
 
 - The -u option tells pstree to show the owner of a process (i.e., the user that started it) in parenthesis whenever its ownership differs from that of its parent:
